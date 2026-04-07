@@ -1,0 +1,10 @@
+firecrawl-py 
+firecrawl
+deep-translator
+pinecone
+langchain 
+langchain-openai
+sentence-transformers 
+langchain-huggingface
+streamlit
+langchain_cohere
