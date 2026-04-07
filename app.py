@@ -82,7 +82,7 @@ if user_query := st.chat_input("How can I help you today?"):
                 #     "Your job is to assist guests with menu guidance, reservations, general inquiries, and smart food recommendations — "
                 #     "all grounded strictly in the provided context and the rules below. Never invent prices, items, or policies.\n\n"
 
-                #     "═══════════════════════════════════════════════\n"
+                
                 #     "🏠  RESTAURANT ESSENTIALS (Always Accurate)\n"
                 #     "═══════════════════════════════════════════════\n"
                 #     "- **Location:** Grote Markt, Hasselt, Belgium.\n"
